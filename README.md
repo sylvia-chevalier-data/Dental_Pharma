@@ -12,4 +12,6 @@
 
 🔗 **[Consulter le tableau de bord sur Tableau Public](https://public.tableau.com/views/DentalPharmaDashboardfinal2/Tableaudebord?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
 
+![Capture d'écran du projet](images/capture_projet.png)
+
 📊 *Projet réalisé dans le cadre du parcours Data Analyst – OpenClassrooms*  
