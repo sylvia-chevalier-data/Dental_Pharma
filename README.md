@@ -10,6 +10,6 @@
 
 **Résultats :** Visualisation dynamique permettant d’analyser les ventes et d’identifier les tendances par produit et par région.  
 
-🔗 **[Consulter le tableau de bord sur Tableau Public](https://public.tableau.com/views/DentalPharmaDashboardfinal2/Tableaudebord?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
+🔗 **[Consulter le tableau de bord sur Tableau Public](https://public.tableau.com/authoring/DentalPharmaDashboardfinal2/Tableaudebord#3)**  
 
 📊 *Projet réalisé dans le cadre du parcours Data Analyst – OpenClassrooms*  
