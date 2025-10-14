@@ -6,7 +6,7 @@
 
 **Objectif :** Créer un tableau de bord interactif pour une entreprise pharmaceutique afin de suivre ses indicateurs clés de performance.  
 
-**Outils :** Tableau, SQL  
+**Outil :** Tableau Public
 
 **Résultats :** Visualisation dynamique permettant d’analyser les ventes et d’identifier les tendances par produit et par région.  
 
