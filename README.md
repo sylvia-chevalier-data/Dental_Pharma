@@ -16,4 +16,4 @@
 📊 *Projet réalisé dans le cadre du parcours Data Analyst – OpenClassrooms*  
 
 ## 🙏 Remerciements
-Merci à mon **mentor OpenClassrooms Michel Perez** pour son accompagnement et ses conseils tout au long du projet.
+Merci à mon **mentor OpenClassrooms Michel Pérez** pour son accompagnement et ses conseils tout au long du projet.
